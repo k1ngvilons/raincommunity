@@ -1,0 +1,32 @@
+@font-face{
+    font-family: silkscreen;
+
+    /* Fonte Na Pasta */
+    src: url("silkscreen.ttf");
+}
+
+*{
+	font-family: silkscreen;
+	background: black;
+	background-size: 100%;
+}
+
+.Inicio {
+	text-align: center;
+	color: white;
+	font-family: silkscreen;
+}
+
+.Monroe {
+	text-align: center;
+}
+
+.Botão {
+	text-align: center;
+	text-align: down;
+}
+
+.Aperte {
+	text-align: center;
+	color: white;
+}
