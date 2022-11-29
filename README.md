@@ -1,5 +1,5 @@
 # Rain Community
-https://discord.gg/bWR2HxBFS5
+https://discord.gg/AhEk2EHPXg
 
 
 # Sobre O Site
